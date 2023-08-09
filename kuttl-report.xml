@@ -1,0 +1,5 @@
+ <testsuites name="" tests="1" failures="0" time="23.358">
+   <testsuite tests="1" failures="0" timestamp="2023-08-09T14:57:50.202323104+05:30" time="18.117" name="./tests/e2e/">
+     <testcase classname="e2e" name="example-test" timestamp="2023-08-09T14:57:50.202672974+05:30" time="18.117" assertions="1"></testcase>
+   </testsuite>
+ </testsuites>
